@@ -1,6 +1,4 @@
-## LittleBizzy
-
-### Free WordPress DevOps Tools
+## LittleBizzy makes long-term WordPress maintenance easy.
 
 <!--
 
